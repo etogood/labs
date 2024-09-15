@@ -1,0 +1,44 @@
+﻿<Window x:Class="_2.Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2.Calculator"
+        mc:Ignorable="d"
+        Title="Calculator" Height="500" Width="300" ResizeMode="NoResize">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="10">
+            <Border BorderBrush="Black" BorderThickness="2">
+                <TextBlock x:Name="ViewFieldTB" Text="" FontSize="30" Margin="10" Width="240"/>
+            </Border>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="5, 0">
+            <Button Content="7" Width="50" Height="50" FontSize="20" Margin="5" Click="Button_Click7"/>
+            <Button Content="8" Width="50" Height="50" FontSize="20" Margin="5" Click="Button_Click8"/>
+            <Button Content="9" Width="50" Height="50" FontSize="20" Margin="5" Click="Button_Click9"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="5, 0">
+            <Button Content="4" Width="50" Height="50" FontSize="20" Margin="5" Click="Button_Click4"/>
+            <Button Content="5" Width="50" Height="50" FontSize="20" Margin="5" Click="Button_Click5"/>
+            <Button Content="6" Width="50" Height="50" FontSize="20" Margin="5" Click="Button_Click6"/>
+            <Button Content="C" Width="50" Height="50" FontSize="20" Margin="5" Click="Button_ClickClear"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="5, 0">
+            <Button Content="1" Width="50" Height="50" FontSize="20" Margin="5" Click="Button_Click1"/>
+            <Button Content="2" Width="50" Height="50" FontSize="20" Margin="5" Click="Button_Click2"/>
+            <Button Content="3" Width="50" Height="50" FontSize="20" Margin="5" Click="Button_Click3"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="5, 0">
+            <Button Content="0" Width="170" Height="50" FontSize="20" Margin="5" Click="Button_Click0"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="10">
+            <Button Content="+" x:Name="PlusButton" Width="50" Height="50" FontSize="20" Margin="5" Click="Button_ClickPlus"/>
+            <Button Content="-" x:Name="MinusButton" Width="50" Height="50" FontSize="20" Margin="5" Click="Button_ClickMinus"/>
+            <Button Content="*" x:Name="MultiplyButton" Width="50" Height="50" FontSize="20" Margin="5" Click="Button_ClickMultiply"/>
+            <Button Content="/" x:Name="DivideButton" Width="50" Height="50" FontSize="20" Margin="5" Click="Button_ClickDivide"/>
+        </StackPanel>
+        <StackPanel>
+            <Button Content="=" x:Name="EqualButton" Width="150" Height="50" FontSize="20" Margin="5" Click="Button_ClickEqual"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

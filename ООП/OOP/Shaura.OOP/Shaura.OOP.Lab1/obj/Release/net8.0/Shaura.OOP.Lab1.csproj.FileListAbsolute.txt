@@ -1,0 +1,14 @@
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab1\bin\Release\net8.0\Shaura.OOP.Lab1.exe
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab1\bin\Release\net8.0\Shaura.OOP.Lab1.deps.json
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab1\bin\Release\net8.0\Shaura.OOP.Lab1.runtimeconfig.json
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab1\bin\Release\net8.0\Shaura.OOP.Lab1.dll
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab1\bin\Release\net8.0\Shaura.OOP.Lab1.pdb
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab1\obj\Release\net8.0\Shaura.OOP.Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab1\obj\Release\net8.0\Shaura.OOP.Lab1.AssemblyInfoInputs.cache
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab1\obj\Release\net8.0\Shaura.OOP.Lab1.AssemblyInfo.cs
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab1\obj\Release\net8.0\Shaura.OOP.Lab1.csproj.CoreCompileInputs.cache
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab1\obj\Release\net8.0\Shaura.OOP.Lab1.dll
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab1\obj\Release\net8.0\refint\Shaura.OOP.Lab1.dll
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab1\obj\Release\net8.0\Shaura.OOP.Lab1.pdb
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab1\obj\Release\net8.0\Shaura.OOP.Lab1.genruntimeconfig.cache
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab1\obj\Release\net8.0\ref\Shaura.OOP.Lab1.dll

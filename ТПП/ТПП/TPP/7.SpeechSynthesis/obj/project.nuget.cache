@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oRbEsAkUShqyVca5n/RjFUhiwTVstS6D8FrBhgJ2012ZvyeLJUcBGn8XlgHmisMfMzdJ6AHO0WTIxKzwluekjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\etogood\\Desktop\\ТПП\\TPP\\7.SpeechSynthesis\\7.SpeechSynthesis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\etogood\\.nuget\\packages\\system.speech\\8.0.0\\system.speech.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

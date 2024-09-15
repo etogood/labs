@@ -1,0 +1,6 @@
+﻿  2.Lab_678.cpp
+C:\Users\etogood\Desktop\ЧМ\NM\2.Lab_678\2.Lab_678.cpp(103,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\etogood\Desktop\ЧМ\NM\2.Lab_678\2.Lab_678.cpp(104,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\etogood\Desktop\ЧМ\NM\2.Lab_678\2.Lab_678.cpp(123,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\etogood\Desktop\ЧМ\NM\2.Lab_678\2.Lab_678.cpp(124,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  2.Lab_678.vcxproj -> C:\Users\etogood\Desktop\ЧМ\NM\x64\Debug\2.Lab_678.exe

@@ -1,0 +1,37 @@
+﻿<Window x:Class="_7.SpeechSynthesis.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_7.SpeechSynthesis"
+        mc:Ignorable="d"
+        Title="Распознавание текста" Height="450" Width="400" ResizeMode="NoResize">
+    <DockPanel Margin="10">
+        <WrapPanel DockPanel.Dock="Top" Margin="10">
+            <Button x:Name="btnFile" Click="btnOpenFile_Click" Content="Открыть файл" Height="30" Margin="0 0 10 0"/>
+            <Button x:Name="btnSave" Click="btnSaveFile_Click" Content="Сохранить в файл" Height="30"/>
+        </WrapPanel>
+        <StackPanel DockPanel.Dock="Bottom" Margin="0, 10">
+            <TextBox Name="txtSpeech" AcceptsReturn="True" TextWrapping="Wrap" Height="250" >
+                <TextBox.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="Не акцентировать" Command=""/>
+                        <MenuItem Header="Акцентировать" Command=""/>
+                        <Separator/>
+                        <MenuItem Header="Очень медленно" Command=""/>
+                        <MenuItem Header="Медленно" Command=""/>
+                        <MenuItem Header="Быстро" Command=""/>
+                        <MenuItem Header="Очень быстро" Command=""/>
+                        <Separator/>
+                        <MenuItem Header="Заглушить" Command=""/>
+                        <MenuItem Header="Очень тихо" Command=""/>
+                        <MenuItem Header="Тихо" Command=""/>
+                        <MenuItem Header="Громко" Command=""/>
+                        <MenuItem Header="Очень громко" Command=""/>
+                    </ContextMenu>
+                </TextBox.ContextMenu>
+            </TextBox>
+            <Button x:Name="btnPlay" Content="Прочитать текст" Click="btnPlay_Click" Height="30"/>
+        </StackPanel>
+    </DockPanel>
+</Window>

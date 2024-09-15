@@ -1,0 +1,5 @@
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab3\bin\Release\net8.0\publish\Shaura.OOP.Lab3.exe
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab3\bin\Release\net8.0\publish\Shaura.OOP.Lab3.dll
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab3\bin\Release\net8.0\publish\Shaura.OOP.Lab3.deps.json
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab3\bin\Release\net8.0\publish\Shaura.OOP.Lab3.runtimeconfig.json
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab3\bin\Release\net8.0\publish\Shaura.OOP.Lab3.pdb

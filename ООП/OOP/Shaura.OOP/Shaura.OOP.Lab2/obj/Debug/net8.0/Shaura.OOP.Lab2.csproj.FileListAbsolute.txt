@@ -1,0 +1,14 @@
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab2\bin\Debug\net8.0\Shaura.OOP.Lab2.exe
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab2\bin\Debug\net8.0\Shaura.OOP.Lab2.deps.json
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab2\bin\Debug\net8.0\Shaura.OOP.Lab2.runtimeconfig.json
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab2\bin\Debug\net8.0\Shaura.OOP.Lab2.dll
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab2\bin\Debug\net8.0\Shaura.OOP.Lab2.pdb
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab2\obj\Debug\net8.0\Shaura.OOP.Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab2\obj\Debug\net8.0\Shaura.OOP.Lab2.AssemblyInfoInputs.cache
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab2\obj\Debug\net8.0\Shaura.OOP.Lab2.AssemblyInfo.cs
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab2\obj\Debug\net8.0\Shaura.OOP.Lab2.csproj.CoreCompileInputs.cache
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab2\obj\Debug\net8.0\Shaura.OOP.Lab2.dll
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab2\obj\Debug\net8.0\refint\Shaura.OOP.Lab2.dll
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab2\obj\Debug\net8.0\Shaura.OOP.Lab2.pdb
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab2\obj\Debug\net8.0\Shaura.OOP.Lab2.genruntimeconfig.cache
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab2\obj\Debug\net8.0\ref\Shaura.OOP.Lab2.dll

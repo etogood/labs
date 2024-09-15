@@ -1,0 +1,2 @@
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab3\bin\Release\net8.0\win-x64\publish\Shaura.OOP.Lab3.pdb
+C:\Users\etogood\Desktop\OOP\Shaura.OOP\Shaura.OOP.Lab3\bin\Release\net8.0\win-x64\publish\Shaura.OOP.Lab3.exe

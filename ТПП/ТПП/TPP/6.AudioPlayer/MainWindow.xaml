@@ -1,0 +1,36 @@
+﻿<Window x:Class="_6.AudioPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_6.AudioPlayer"
+        mc:Ignorable="d"
+        Title="AudioPlayer" Height="300" Width="400" ResizeMode="NoResize">
+    <StackPanel Margin="10">
+        <Label Name="songTitle" Content="Ничего не играет..." HorizontalContentAlignment="Center" Margin="2"/>
+        <Label Name="textStatus" Content="" HorizontalContentAlignment="Center" Margin="2" />
+        <Slider Name="Slider" Width="300" ValueChanged="Slider_ValueChanged" Value="{Binding CurrentPosition}" Minimum="0" Maximum="{Binding CurrentMaximumPosition}"/>
+        <WrapPanel HorizontalAlignment="Center">
+            <Button Content="➕" Name="addToListButton" Background="Transparent" BorderThickness="0" FontSize="10" Click="addToListButton_Click"/>
+            <Button Content="⏯️" Name="playPauseButton" Background="Transparent" BorderThickness="0" FontSize="20" Click="playPauseButton_Click"/>
+            <Button Content="⏭️" Name="skipButton" Background="Transparent" BorderThickness="0" FontSize="20" Click="skipButton_Click"/>
+        </WrapPanel>
+        <ListBox Name="PlaylistLB" Margin="10" ItemsSource="{Binding Playlist}" Height="80">
+            <ListBox.ItemTemplate>
+                <DataTemplate DataType="Track">
+                    <StackPanel Orientation="Horizontal" MouseEnter="PlaylistItem_MouseEnter" >
+                        <TextBlock Text="{Binding TrackName}" />
+                        <Label/>
+                        <Button Content="▶️" Click="LBPlayButton_Click" Background="Transparent" BorderThickness="0"/>
+                        <Button Content="❌" Click="LBRemoveButton_Click" Background="Transparent" BorderThickness="0"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <WrapPanel HorizontalAlignment="Center">
+            <Button Content="Сохранить плейлист" Click="SavePlaylistButton_Click"/>
+            <Label/>
+            <Button Content="Открыть плейлист" Click="OpenPlaylistButton_Click"/>
+        </WrapPanel>
+    </StackPanel>
+</Window>
