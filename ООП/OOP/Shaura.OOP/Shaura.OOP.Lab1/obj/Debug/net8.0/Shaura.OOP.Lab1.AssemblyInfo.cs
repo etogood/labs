@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shaura.OOP.Lab1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a42241b7cef49587d702f98e7c89a0fb80bebc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shaura.OOP.Lab1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shaura.OOP.Lab1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
