@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XA2TCJq0tLBAriP/FRyZ6ivZb/txA4SUIyaAy9P6p44CHTWiWutiHKiqm2Cc8/wkfsaEFI7KcRk90U/+vZcV6Q==",
+  "dgSpecHash": "LARHQs8Qp6w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\etogood\\Desktop\\OOP\\Shaura.OOP\\Shaura.OOP.Lab1\\Shaura.OOP.Lab1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\etogood\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\labs\\ООП\\OOP\\Shaura.OOP\\Shaura.OOP.Lab1\\Shaura.OOP.Lab1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
