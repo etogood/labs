@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fddfc570c6d4864b935cb8dde19d450, type: 3}
+  m_Name: PlayerSettings
+  m_EditorClassIdentifier: 
+  walkSpeed: 4
+  sprintSpeed: 7
+  jumpHeight: 1.6
+  gravity: -25
+  groundedSkin: 0.2
